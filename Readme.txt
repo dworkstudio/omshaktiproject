@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Om Diagnostics Center In Sikkim
 
-Template Name: Medilab
-Template URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
+https://www.omshaktidiagnostics.in
